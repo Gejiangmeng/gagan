@@ -1,1 +1,1 @@
-The data url:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+Two public datasets are employed for experiments. One is European dataset, which is available at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud. The other is Card Fraud dataset, which is available at https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud.
